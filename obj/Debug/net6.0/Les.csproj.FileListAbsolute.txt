@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.AssemblyInfo.cs
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Les\bin\Debug\net6.0\Les.exe
+C:\Users\1\Desktop\Les\bin\Debug\net6.0\Les.deps.json
+C:\Users\1\Desktop\Les\bin\Debug\net6.0\Les.runtimeconfig.json
+C:\Users\1\Desktop\Les\bin\Debug\net6.0\Les.dll
+C:\Users\1\Desktop\Les\bin\Debug\net6.0\Les.pdb
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.dll
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\refint\Les.dll
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.pdb
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\Les.genruntimeconfig.cache
+C:\Users\1\Desktop\Les\obj\Debug\net6.0\ref\Les.dll
